@@ -18,7 +18,8 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ---
 
 ## 🎓 Education  
-![Birzeit University](https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Birzeit_University_Logo.svg/1200px-Birzeit_University_Logo.svg.png)  
+![image](https://github.com/user-attachments/assets/6f32d633-195c-445f-ac8c-16087c40c854)
+
 🎓 **Birzeit University** | *Computer Science Student*  
 
 ---
