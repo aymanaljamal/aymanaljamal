@@ -1,5 +1,6 @@
 # 🌟 Ayman Al-Jamal 🚀  
-[![image](https://github.com/user-attachments/assets/dcbbd8df-7a1b-400f-9f58-b3738e3ecf1a)
+![image](https://github.com/user-attachments/assets/e93d1d16-b16e-42a4-905c-60266f85971d)
+
 
 
 ## 👨‍💻 About Me  
