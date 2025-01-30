@@ -1,5 +1,5 @@
 # 🌟 Ayman Al-Jamal 🚀  
-![image](https://github.com/user-attachments/assets/e93d1d16-b16e-42a4-905c-60266f85971d)
+![image](https://github.com/user-attachments/assets/c6412177-60a2-49d3-9468-21b794438d6f)
 
 
 
@@ -19,7 +19,8 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ---
 
 ## 🎓 Education  
-![image](https://github.com/user-attachments/assets/6f32d633-195c-445f-ac8c-16087c40c854)
+![image](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
+
 
 🎓 **Birzeit University** | *Computer Science Student*  
 
