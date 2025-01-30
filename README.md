@@ -1,6 +1,6 @@
 # 🌟 Ayman Al-Jamal 🚀  
+[![image](https://github.com/user-attachments/assets/dcbbd8df-7a1b-400f-9f58-b3738e3ecf1a)
 
-![Programmer](https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_1280.jpg)  
 
 ## 👨‍💻 About Me  
 💡 **Passionate Software Developer** | **Java & Python Enthusiast** | **Project Management Pro** 🚀  
