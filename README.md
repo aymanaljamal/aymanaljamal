@@ -41,13 +41,13 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X86-assembly.svg" alt="Assembly" width="40" height="40"/>
+  <img src="https://ichef.bbci.co.uk/images/ic/400x225_b/p0hjl0p8.jpg" alt="Assembly" width="40" height="40"/>
 </p>
 
 
 ### **Development Tools**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://yt3.googleusercontent.com/sbknt7hweoIpYAqf_KyTjlDpe3DFdmG4MSd6mLITqhgVykim_cTf-4Tokamrw3X0iJ3a9h334g=s900-c-k-c0x00ffffff-no-rj" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
