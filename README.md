@@ -1,7 +1,5 @@
-🌟 Ayman Al-Jamal 🚀  
+# 🌟 Ayman Al-Jamal 🚀  
 ![image](https://github.com/user-attachments/assets/c6412177-60a2-49d3-9468-21b794438d6f)
-
-
 
 ## 👨‍💻 About Me  
 💡 **Passionate Software Developer** | **Java & Python Enthusiast** | **Project Management Pro** 🚀  
@@ -11,22 +9,65 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ---
 
 ## 🎯 Interests & Expertise  
-- 🖥 **Software Development**: Java 🟡 | Python 🐍  
-- 📊 **Project Management**: Agile & Critical Path Analysis  
-- 🎮 **Gaming & Content Creation**  
-- 📚 **Lifelong Learning & Knowledge Sharing**  
+🔹 **Software Development**:  
+&nbsp;&nbsp;&nbsp;🖥 Java 🟡 | Python 🐍 | .NET | Web Development | C 🔵 | Assembly 🏴  
+
+🔹 **Operating Systems & Tools**:  
+&nbsp;&nbsp;&nbsp;🐧 Linux | Windows | Virtual Machines  
+
+🔹 **Project Management**:  
+&nbsp;&nbsp;&nbsp;📊 Agile | Critical Path Analysis | Team Leadership  
+
+🔹 **Other Interests**:  
+&nbsp;&nbsp;&nbsp;🎮 Gaming & Content Creation | 📚 Lifelong Learning & Knowledge Sharing  
 
 ---
 
-## 🎓 Education  
+## 🎓 Education 🎓  
 ![image](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
 
-
-🎓 **Birzeit University** | *Computer Science Student*  
+🎓 **Birzeit University**  
+📚 *Computer Science Student*  
 
 ---
 
-## 🔗 Let's Connect! 🌍  
+## 🛠️ Languages & Tools  
+### **Languages & Technologies**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Assembly_language_icon.svg" alt="Assembly" width="40" height="40"/>
+</p>
+
+### **Development Tools**
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/>
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+</p>
+
+### **Operating Systems**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+</p>
+
+---
+
+## 🌍 Let's Connect!  
 🚀 *Let’s collaborate on exciting projects and exchange knowledge!*  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GarkogthV/)  
@@ -48,4 +89,3 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ### 🎖️ *"Innovation isn’t just about ideas, it’s about making them happen."* 💡🔥  
 
 © 2025 Ayman Al-Jamal. All rights reserved. 🎉
- 
