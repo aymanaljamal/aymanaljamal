@@ -27,21 +27,22 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 | **Application** | **Icon** |
 |---------------|--------|
-| **IntelliJ IDEA** | ![IntelliJ](https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg) |
-| **Eclipse IDE** | ![Eclipse](https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg) |
-| **VirtualBox** | ![VirtualBox](https://upload.wikimedia.org/wikipedia/commons/7/7a/Virtualbox_logo.png) |
-| **Oracle VM VirtualBox** | ![VirtualBox](https://upload.wikimedia.org/wikipedia/commons/e/e3/Oracle_logo.svg) |
+| **IntelliJ IDEA** | ![IntelliJ](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg) |
+| **Eclipse IDE** | ![Eclipse](https://upload.wikimedia.org/wikipedia/commons/9/9f/Eclipse_logo.svg) |
+| **VirtualBox** | ![VirtualBox](https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png) |
+| **Oracle VM VirtualBox** | ![Oracle VM](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) |
 | **Emu8086** | ![Emu8086](https://www.emu8086.com/images/emu8086-logo.png) |
-| **NetBeans IDE** | ![NetBeans](https://upload.wikimedia.org/wikipedia/commons/c/c9/Apache_NetBeans_Logo.svg) |
-| **SceneBuilder** | ![SceneBuilder](https://upload.wikimedia.org/wikipedia/commons/6/66/Scene_Builder_Logo.png) |
-| **Quartus II** | ![Quartus](https://upload.wikimedia.org/wikipedia/commons/2/2b/Altera_Quartus_Logo.png) |
-| **Notepad++** | ![Notepad++](https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad_plus_plus_logo.png) |
+| **NetBeans IDE** | ![NetBeans](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Apache_NetBeans_Logo.svg/512px-Apache_NetBeans_Logo.svg.png) |
+| **SceneBuilder** | ![SceneBuilder](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Scene_Builder_Logo.png/600px-Scene_Builder_Logo.png) |
+| **Quartus II** | ![Quartus](https://upload.wikimedia.org/wikipedia/commons/8/8b/Intel_Quartus_Prime_Logo.png) |
+| **Notepad++** | ![Notepad++](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Notepad_plus_plus_logo.png/600px-Notepad_plus_plus_logo.png) |
 | **Proteus 8** | ![Proteus](https://upload.wikimedia.org/wikipedia/en/9/97/Proteus_Design_Suite_logo.png) |
-| **OBS Studio** | ![OBS Studio](https://upload.wikimedia.org/wikipedia/commons/3/31/OBS_Studio_Logo.svg) |
+| **OBS Studio** | ![OBS Studio](https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg) |
 | **IBM SPSS** | ![SPSS](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_Software_Group_logo.svg) |
 | **Visual Studio Code** | ![VS Code](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) |
-| **PyCharm** | ![PyCharm](https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg) |
+| **PyCharm** | ![PyCharm](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/600px-PyCharm_Icon.svg.png) |
 | **MindOnMap** | ![MindOnMap](https://mindonmap.com/favicon.ico) |
+
 
 ---
 
