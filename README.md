@@ -1,4 +1,4 @@
-\ضيفها على شكل صوره هنا # 🌟 Ayman Al-Jamal 🚀  
+🌟 Ayman Al-Jamal 🚀  
 ![image](https://github.com/user-attachments/assets/c6412177-60a2-49d3-9468-21b794438d6f)
 
 
