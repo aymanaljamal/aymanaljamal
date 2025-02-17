@@ -10,7 +10,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 ## 🎯 Interests & Expertise  
 🔹 **Software Development**:  
-&nbsp;&nbsp;&nbsp;🖥 Java 🟡 | Python 🐍 | .NET | Web Development | C 🔵 | Assembly 🏴  
+&nbsp;&nbsp;&nbsp;🖥 Java 🟡 | Python 🐍 | Web Development | C 🔵 | Assembly 🏴  
 
 🔹 **Operating Systems & Tools**:  
 &nbsp;&nbsp;&nbsp;🐧 Linux | Windows | Virtual Machines  
@@ -33,6 +33,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 ## 🛠️ Languages & Tools  
 ### **Languages & Technologies**  
+### **Languages & Technologies**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -40,8 +41,9 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Assembly_language_icon.svg" alt="Assembly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X86-assembly.svg" alt="Assembly" width="40" height="40"/>
 </p>
+
 
 ### **Development Tools**
 <p align="left">
@@ -49,14 +51,11 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/>
 </p>
 
 ### **Databases**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 </p>
 
 ### **Operating Systems**
