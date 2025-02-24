@@ -76,10 +76,6 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 ---
 
-## 📩 Contact Me  
-📍 **Location:** Silwad, Palestine  
-📧 **Email:** [ayman.aljamal2017@gmail.com](mailto:ayman.aljamal2017@gmail.com)  
-
 📌 *For collaborations, projects, or networking opportunities, feel free to reach out!* 🚀🔥  
 
 ---
