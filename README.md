@@ -1,30 +1,33 @@
 # 🌟 Ayman Al-Jamal 🚀  
-![image](https://github.com/user-attachments/assets/c6412177-60a2-49d3-9468-21b794438d6f)
+![Ayman Al-Jamal](https://avatars.githubusercontent.com/u/your-github-id?v=4) <!-- غيّر هذا الرابط لصورة بروفايلك أو صورة مميزة -->
 
 ## 👨‍💻 About Me  
-💡 **Passionate Software Developer** | **Java & Python Enthusiast** | **Project Management Pro** 🚀  
-I love **building innovative solutions, solving complex problems, and managing projects efficiently.**  
+💡 **Passionate Software Developer** | **Spring Boot & REST API Expert** | **Docker & Cloud Enthusiast** | **Project Management Pro** 🚀  
+I love **building innovative backend solutions, creating scalable APIs, and leveraging containerization for efficient deployments.**  
 Always eager to **learn, collaborate, and contribute** to the tech community!  
 
 ---
 
 ## 🎯 Interests & Expertise  
-🔹 **Software Development**:  
-&nbsp;&nbsp;&nbsp;🖥 Java 🟡 | Python 🐍 | Web Development | C 🔵 | Assembly 🏴  
+🔹 **Backend Development & APIs**:  
+&nbsp;&nbsp;&nbsp;🖥 Java (Spring Boot) | RESTful APIs | Microservices | Security (JWT, OAuth2)  
 
-🔹 **Operating Systems & Tools**:  
-&nbsp;&nbsp;&nbsp;🐧 Linux | Windows | Virtual Machines  
+🔹 **Containerization & DevOps**:  
+&nbsp;&nbsp;&nbsp;🐳 Docker | Docker Compose | CI/CD pipelines  
+
+🔹 **Databases & Persistence**:  
+&nbsp;&nbsp;&nbsp;💾 MySQL | JPA / Hibernate | Query Optimization  
+
+🔹 **Languages & Other Tools**:  
+&nbsp;&nbsp;&nbsp;Java | Python | C | Assembly | IntelliJ IDEA | Git | Linux | Windows  
 
 🔹 **Project Management**:  
-&nbsp;&nbsp;&nbsp;📊 Agile | Critical Path Analysis | Team Leadership  
-
-🔹 **Other Interests**:  
-&nbsp;&nbsp;&nbsp;🎮 Gaming & Content Creation | 📚 Lifelong Learning & Knowledge Sharing  
+&nbsp;&nbsp;&nbsp;📊 Agile Methodologies | Team Leadership | Critical Path Analysis  
 
 ---
 
 ## 🎓 Education 🎓  
-![image](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
+![Birzeit University](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
 
 🎓 **Birzeit University**  
 📚 *Computer Science Student*  
@@ -34,27 +37,18 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ## 🛠️ Languages & Tools  
 ### **Languages & Technologies**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://ichef.bbci.co.uk/images/ic/400x225_b/p0hjl0p8.jpg" alt="Assembly" width="40" height="40"/>
 </p>
-
 
 ### **Development Tools**
 <p align="left">
   <img src="https://yt3.googleusercontent.com/sbknt7hweoIpYAqf_KyTjlDpe3DFdmG4MSd6mLITqhgVykim_cTf-4Tokamrw3X0iJ3a9h334g=s900-c-k-c0x00ffffff-no-rj" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
-</p>
-
-### **Databases**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ### **Operating Systems**
