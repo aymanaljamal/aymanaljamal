@@ -1,5 +1,5 @@
 # 🌟 Ayman Al-Jamal 🚀  
-![Ayman Al-Jamal](https://avatars.githubusercontent.com/u/your-github-id?v=4) <!-- غيّر هذا الرابط لصورة بروفايلك أو صورة مميزة -->
+![Ayman Al-Jamal]([https://avatars.githubusercontent.com/u/your-github-id?v=4](https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif)) 
 
 ## 👨‍💻 About Me  
 💡 **Passionate Software Developer** | **Spring Boot & REST API Expert** | **Docker & Cloud Enthusiast** | **Project Management Pro** 🚀  
