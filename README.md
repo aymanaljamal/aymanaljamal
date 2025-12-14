@@ -49,11 +49,35 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-### **Development Tools**
-<p align="left">
-  <img src="https://yt3.googleusercontent.com/sbknt7hweoIpYAqf_KyTjlDpe3DFdmG4MSd6mLITqhgVykim_cTf-4Tokamrw3X0iJ3a9h334g=s900-c-k-c0x00ffffff-no-rj" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-</p>
+## 🛠️ **Tools**
+
+<div align="left" style="margin: 40px 0;">
+  
+  <!-- Backend Tools -->
+  <h3 style="color: #00D4FF;">🔧 Backend Development</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=spring,java,gradle,maven,hibernate,postgres,mysql" />
+  </div>
+  
+  <!-- Mobile & Frontend -->
+  <h3 style="color: #FF6B6B; margin-top: 30px;">📱 Mobile & Frontend</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
+  </div>
+  
+  <!-- DevOps & Cloud -->
+  <h3 style="color: #7F52FF; margin-top: 30px;">☁️ DevOps & Cloud</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux" />
+  </div>
+  
+  <!-- Tools -->
+  <h3 style="color: #FFD700; margin-top: 30px;">⚙️ Development Tools</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,git,postman,github" />
+  </div>
+
+</div>
 
 ### **Operating Systems**
 <p align="left">
