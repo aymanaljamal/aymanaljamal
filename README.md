@@ -13,20 +13,25 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ---
 
 ## 🎯 Interests & Expertise  
-🔹 **Backend Development & APIs**:  
-&nbsp;&nbsp;&nbsp;🖥 Java (Spring Boot) | RESTful APIs | Microservices | Security (JWT, OAuth2)  
 
-🔹 **Containerization & DevOps**:  
-&nbsp;&nbsp;&nbsp;🐳 Docker | Docker Compose | CI/CD pipelines  
+### 🖥 Backend Development & APIs  
+<img src="https://img.icons8.com/color/24/java-coffee-cup-logo.png"/> **Java (Spring Boot)** | <img src="https://img.icons8.com/ios-filled/24/api.png"/> RESTful APIs | Microservices | Security (JWT, OAuth2)
 
-🔹 **Databases & Persistence**:  
-&nbsp;&nbsp;&nbsp;💾 MySQL | JPA / Hibernate | Query Optimization  
+### 📱 Mobile Development  
+<img src="https://img.icons8.com/color/24/android-os.png"/> **Android (Kotlin/Java)** | <img src="https://img.icons8.com/color/24/flutter.png"/> Flutter | Cross-platform Apps | UI/UX Best Practices
 
-🔹 **Languages & Other Tools**:  
-&nbsp;&nbsp;&nbsp;Java | Python | C | Assembly | IntelliJ IDEA | Git | Linux | Windows  
+### 🐳 Containerization & DevOps  
+<img src="https://img.icons8.com/color/24/docker.png"/> Docker | Docker Compose | CI/CD Pipelines | Cloud Deployment
 
-🔹 **Project Management**:  
-&nbsp;&nbsp;&nbsp;📊 Agile Methodologies | Team Leadership | Critical Path Analysis  
+### 💾 Databases & Persistence  
+<img src="https://img.icons8.com/color/24/mysql-logo.png"/> MySQL | JPA / Hibernate | Query Optimization | Data Modeling
+
+### 🛠 Languages & Tools  
+<img src="https://img.icons8.com/color/24/python.png"/> Python | Java | C | Assembly | IntelliJ IDEA | Git | Linux | Windows | <img src="https://img.icons8.com/ios/24/uml.png"/> PlantUML
+
+### 📊 Project Management & Collaboration  
+<img src="https://img.icons8.com/color/24/agile-scrum.png"/> Agile Methodologies | Team Leadership | Critical Path Analysis | Documentation
+
 
 ---
 
@@ -90,12 +95,26 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ## 🌍 Let's Connect!  
 🚀 *Let’s collaborate on exciting projects and exchange knowledge!*  
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GarkogthV/)  
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@abu_aljamalll)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abu_aljamalll)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymanaljamal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-jamal-0a8416332) 
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/aymandocker219)
+<p align="center">
+  <a href="https://www.facebook.com/share/1GarkogthV/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.threads.net/@abu_aljamalll">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+  <a href="https://www.instagram.com/abu_aljamalll">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/aymanaljamal">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayman-jamal-0a8416332">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hub.docker.com/u/aymandocker219">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
+  </a>
+</p>
 
 
 ---
