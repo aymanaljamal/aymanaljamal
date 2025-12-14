@@ -1,4 +1,8 @@
 # 🌟 Ayman Al-Jamal 🚀  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android+Developer;Building+Scalable+Solutions+with+Clean+Code;Passionate+About+Backend+%26+Mobile+Development" alt="Typing SVG" />
+</div>
+
 ![Ayman Al-Jamal](https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif)
 
 ## 👨‍💻 About Me  
