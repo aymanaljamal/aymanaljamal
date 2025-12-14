@@ -12,25 +12,23 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 ---
 
-## 🎯 Interests & Expertise  
+## 🎯 Interests & Expertise
 
-### 🖥 Backend Development & APIs  
-<img src="https://img.icons8.com/color/24/java-coffee-cup-logo.png"/> **Java (Spring Boot)** | <img src="https://img.icons8.com/ios-filled/24/api.png"/> RESTful APIs | Microservices | Security (JWT, OAuth2)
+### Backend & APIs
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="24" height="24"/> **Java** (Spring Boot, REST APIs, Microservices)
 
-### 📱 Mobile Development  
-<img src="https://img.icons8.com/color/24/android-os.png"/> **Android (Kotlin/Java)** | <img src="https://img.icons8.com/color/24/flutter.png"/> Flutter | Cross-platform Apps | UI/UX Best Practices
+### Mobile Development
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" width="24" height="24" alt="Android"/> **Android**
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="24" height="24" alt="Flutter"/> **Flutter**
 
-### 🐳 Containerization & DevOps  
-<img src="https://img.icons8.com/color/24/docker.png"/> Docker | Docker Compose | CI/CD Pipelines | Cloud Deployment
+### DevOps & Containers
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="24" height="24" alt="Docker"/> Docker, CI/CD
 
-### 💾 Databases & Persistence  
-<img src="https://img.icons8.com/color/24/mysql-logo.png"/> MySQL | JPA / Hibernate | Query Optimization | Data Modeling
+### Databases
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="24" height="24" alt="MySQL"/> MySQL, JPA/Hibernate
 
-### 🛠 Languages & Tools  
-<img src="https://img.icons8.com/color/24/python.png"/> Python | Java | C | Assembly | IntelliJ IDEA | Git | Linux | Windows | <img src="https://img.icons8.com/ios/24/uml.png"/> PlantUML
-
-### 📊 Project Management & Collaboration  
-<img src="https://img.icons8.com/color/24/agile-scrum.png"/> Agile Methodologies | Team Leadership | Critical Path Analysis | Documentation
+### Tools & Languages
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="24" height="24" alt="Python"/> Python | C | IntelliJ | Git | Linux | PlantUML
 
 
 ---
@@ -44,14 +42,31 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ---
 
 ## 🛠️ Languages & Tools  
+
 ### **Languages & Technologies**  
 <p align="left">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+
+  <!-- Frameworks & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uml/uml-plain.svg" alt="PlantUML" width="40" height="40"/>
 </p>
 
 ## 🛠️ **Tools**
